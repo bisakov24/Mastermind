@@ -11,7 +11,6 @@ namespace Mastermind
         //const int iListSize = 4;
         static void Main(string[] args)
         {
-
         //int guesses = 1;
         const int maxGuesses = 10;
         // Placeholder for user's guess
