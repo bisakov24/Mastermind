@@ -1,0 +1,16 @@
+C:\Users\Baldric\Desktop\MasterMind\bin\Debug\net5.0\MasterMind.exe
+C:\Users\Baldric\Desktop\MasterMind\bin\Debug\net5.0\MasterMind.deps.json
+C:\Users\Baldric\Desktop\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.json
+C:\Users\Baldric\Desktop\MasterMind\bin\Debug\net5.0\MasterMind.runtimeconfig.dev.json
+C:\Users\Baldric\Desktop\MasterMind\bin\Debug\net5.0\MasterMind.dll
+C:\Users\Baldric\Desktop\MasterMind\bin\Debug\net5.0\ref\MasterMind.dll
+C:\Users\Baldric\Desktop\MasterMind\bin\Debug\net5.0\MasterMind.pdb
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.csprojAssemblyReference.cache
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfoInputs.cache
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.AssemblyInfo.cs
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.dll
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\ref\MasterMind.dll
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.pdb
+C:\Users\Baldric\Desktop\MasterMind\obj\Debug\net5.0\MasterMind.genruntimeconfig.cache

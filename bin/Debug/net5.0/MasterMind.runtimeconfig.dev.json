@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Baldric\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Baldric\\.nuget\\packages"
+    ]
+  }
+}
